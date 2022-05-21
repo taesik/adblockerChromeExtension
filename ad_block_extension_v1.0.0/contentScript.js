@@ -1,0 +1,1 @@
+(()=>{const n={"https://www.nytimes.com/section/technology":function(){const n=document.getElementsByTagName("div");for(const t of n)-1!=t.className.indexOf("ad")&&(t.style.display="none")}};document.URL in n&&n[document.URL]()})();
